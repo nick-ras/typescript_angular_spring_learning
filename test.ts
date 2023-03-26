@@ -2,6 +2,7 @@
 import {Test1} from "./test_copy"
 //tsc --target ES5 -noEmitOnError test.ts
 
+
 class Test extends Test1
 {
 		constructor(private _name: string, private _age: number, radius: number) {
