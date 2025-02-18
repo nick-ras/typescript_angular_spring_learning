@@ -14,3 +14,25 @@ Clone the repository and install dependencies:
 git clone XX
 cd typescript-workflow-engine
 npm install
+```
+# Running TypeScript Project
+
+## 1. Install TypeScript 
+
+```bash
+npm install typescript
+
+```
+## 2. Compile the TypeScript Filesun:
+
+```Bash
+tsc
+```
+## 3. Run
+4. Run the Compiled JavaScript File
+After compiling, you can run the generated JavaScript files using Node.js:
+
+```bash
+
+node test.js
+```
